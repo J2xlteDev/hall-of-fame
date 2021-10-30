@@ -23,7 +23,7 @@
   
   <li> AlaskaLinuxUser and his <a href="https://www.youtube.com/channel/UCnGqG_jyyXmTzdamBpKfeHA">awesome YouTube channel</a> </li>
   <li> Mardy's <a href="http://www.mardy.it/blog/2019/07/notes-on-porting-the-samsung-j3-to-halium-+-ubports.html">notes on Halium for J3</a> (working wonders for J2 too)</li>
-  
+  <li> <a href="https://github.com/Otus9051">Otus9051</a> Thanks for nothing!
 </u2> 
 
 <h2></br>Other contributors:</h2>
